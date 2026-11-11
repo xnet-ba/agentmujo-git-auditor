@@ -50,6 +50,7 @@ cp agentmujo-git-auditor/SKILL.md ~/.config/opencode/skills/agentmujo-git-audito
 |---|---|
 | `SKILL.md` | Cijeli skill — faze 0–6, format izvještaja, kriteriji ozbiljnosti, samoprovjera |
 | `LICENSE` | MIT |
+| `audit/` | Self-audit izvještaj ovog repoa (dokaz da skill radi na vlastitom kodu) |
 
 ---
 
